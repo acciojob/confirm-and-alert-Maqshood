@@ -1,8 +1,7 @@
-//your JS code here. If required.
-let result =  confirm( “Do you want to proceed?”)
+let result = confirm("Do you want to proceed?")
 
 if(result){
-	alert("You clicked OK. Proceeding...”)
+    alert("You clicked OK. Proceeding....");
 }else{
-	alert("You clicked Cancel. Exiting...")
+    alert("You clicked Cancel. Exiting....");
 }
